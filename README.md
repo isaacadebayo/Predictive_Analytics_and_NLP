@@ -1,4 +1,4 @@
-This repository constitute all models fine tuned or indexed from a public dataset
+This repository constitute all models fine tuned or indexed from public datasets
 
 * Notebook found in the dataset include image generation, model, fine tuning, multimodal chatbot and predictive analytics
 * Algorithms implemented are from tensor flow, pytorch, sklearn, pandas, numpy, seaborn and matplotlib
