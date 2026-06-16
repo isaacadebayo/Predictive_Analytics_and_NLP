@@ -1,0 +1,5 @@
+outs:
+- md5: 7ef0e607f757bc3c14b5938d9a5b2106
+  size: 1089233
+  hash: md5
+  path: aapl_stock_prices.csv
